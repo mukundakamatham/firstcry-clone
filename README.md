@@ -4,7 +4,7 @@
 # Clone of Firstcry.com
 
 
-Hey there, hope you are doing well. I would like to introduce me first. My name is **Dharmesh**. I am from non CS background . But currently learning Web Development in **Masai School**. At the end of every unit Construct week happens and this was our Second construct week. We got a project where we have to clone [Firstcry](https://www.firstcry.com/) website with the time bound of seven days. But we have done our work just in three days by using **HTML, CSS, JS, EXPRESS, MONGODB, EJS**. 
+Hey there, hope you are doing well. I would like to introduce me first. My name is **Mukundh**. I am from non CS background . But currently learning Web Development in **Masai School**. At the end of every unit Construct week happens and this was our Second construct week. We got a project where we have to clone [Firstcry](https://www.firstcry.com/) website with the time bound of seven days. But we have done our work just in three days by using **HTML, CSS, JS, EXPRESS, MONGODB, EJS**. 
 
  
 
