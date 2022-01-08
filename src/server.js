@@ -25,10 +25,11 @@ app.set("views", path.join(__dirname, "/views"));
 
 app.use(express.urlencoded({ extended: false }));
 app.use("/static", express.static(path.join(__dirname, "/public")))
+app.use("/", homeController);
 app.use("/cart", bagController);
 app.use("/bag", bagController);
 app.use("/products", productController);
-app.use("/home", homeController);
+
 app.use('/signups',signupController)
 app.use('/logins', loginController)
 app.set("view engine", 'ejs');
